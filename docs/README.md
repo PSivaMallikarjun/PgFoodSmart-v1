@@ -155,15 +155,11 @@ Open to contributions via issues and PRs. Please follow coding best practices an
 
 MIT License © 2025 [P Siva Mallikarjun](https://linkedin.com/in/siva-70417418a)
 
-```
+<img width="1904" height="950" alt="Screenshot 2025-07-13 094944" src="https://github.com/user-attachments/assets/c92600b4-43d4-47ee-ae35-8239e10a7a3c" />
+<img width="1916" height="948" alt="Screenshot 2025-07-13 094931" src="https://github.com/user-attachments/assets/8b4be7a1-eb2e-4bc4-9054-6424aab1c66e" />
+<img width="1919" height="966" alt="Screenshot 2025-07-13 093724" src="https://github.com/user-attachments/assets/e817dc6e-daf7-48e4-b283-add21da6daf0" />
+<img width="1882" height="905" alt="Screenshot 2025-07-13 100530" src="https://github.com/user-attachments/assets/388dd5ee-2707-47f0-a6b9-409ebea3df52" />
+<img width="1794" height="878" alt="Screenshot 2025-07-13 095009" src="https://github.com/user-attachments/assets/21566272-33a6-4959-9e80-93076d59eca5" />
+<img width="1884" height="862" alt="Screenshot 2025-07-13 094958" src="https://github.com/user-attachments/assets/96cc1e34-55db-440c-b849-0d1d7166e949" />
 
----
 
-<img width="1882" height="905" alt="Screenshot 2025-07-13 100530" src="https://github.com/user-attachments/assets/e0341ff6-df3a-40ed-85ba-2f6cb81b2d3b" />
-<img width="1794" height="878" alt="Screenshot 2025-07-13 095009" src="https://github.com/user-attachments/assets/05757aff-2fe1-4278-bda4-3249e7a6c65b" />
-<img width="1884" height="862" alt="Screenshot 2025-07-13 094958" src="https://github.com/user-attachments/assets/9792eeff-7c17-409c-96b4-0896fb338434" />
-<img width="1904" height="950" alt="Screenshot 2025-07-13 094944" src="https://github.com/user-attachments/assets/3beb8426-abdb-4fb5-8959-122074453a54" />
-<img width="1916" height="948" alt="Screenshot 2025-07-13 094931" src="https://github.com/user-attachments/assets/03b10afa-7d17-40cd-8d30-6736c9af592d" />
-<img width="1919" height="966" alt="Screenshot 2025-07-13 093724" src="https://github.com/user-attachments/assets/ed016d4a-a4d1-4a39-bced-54213d18fe98" />
-
-```
