@@ -159,5 +159,11 @@ MIT License © 2025 [P Siva Mallikarjun](https://linkedin.com/in/siva-70417418a)
 
 ---
 
-Would you like the same for your `CONTRIBUTING.md`, Firebase rules, or deployment steps next?
+<img width="1882" height="905" alt="Screenshot 2025-07-13 100530" src="https://github.com/user-attachments/assets/e0341ff6-df3a-40ed-85ba-2f6cb81b2d3b" />
+<img width="1794" height="878" alt="Screenshot 2025-07-13 095009" src="https://github.com/user-attachments/assets/05757aff-2fe1-4278-bda4-3249e7a6c65b" />
+<img width="1884" height="862" alt="Screenshot 2025-07-13 094958" src="https://github.com/user-attachments/assets/9792eeff-7c17-409c-96b4-0896fb338434" />
+<img width="1904" height="950" alt="Screenshot 2025-07-13 094944" src="https://github.com/user-attachments/assets/3beb8426-abdb-4fb5-8959-122074453a54" />
+<img width="1916" height="948" alt="Screenshot 2025-07-13 094931" src="https://github.com/user-attachments/assets/03b10afa-7d17-40cd-8d30-6736c9af592d" />
+<img width="1919" height="966" alt="Screenshot 2025-07-13 093724" src="https://github.com/user-attachments/assets/ed016d4a-a4d1-4a39-bced-54213d18fe98" />
+
 ```
