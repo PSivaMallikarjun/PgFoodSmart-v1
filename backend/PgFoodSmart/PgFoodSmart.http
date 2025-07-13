@@ -1,0 +1,6 @@
+@PgFoodSmart_HostAddress = http://localhost:5218
+
+GET {{PgFoodSmart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

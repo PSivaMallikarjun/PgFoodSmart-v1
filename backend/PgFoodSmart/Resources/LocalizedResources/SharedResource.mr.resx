@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral</value>
+  </resheader>
+  <data name="MealSaved" xml:space="preserve">
+    <value>भोजन प्रतिसाद यशस्वीरित्या जतन केला आहे.</value>
+  </data>
+  <data name="InvalidInput" xml:space="preserve">
+    <value>अवैध भोजन प्रतिसाद.</value>
+  </data>
+  <data name="MissingFields" xml:space="preserve">
+    <value>भोजन प्रकार आणि वापरकर्ता आयडी आवश्यक आहे.</value>
+  </data>
+</root>
